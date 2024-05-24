@@ -574,5 +574,89 @@
     "level": "Beginner",
     "grade": "Grades 6-8",
     "urlImg": "https://assets.education.lego.com/v3/assets/blt293eea581807678a/blt34acbc37c8e37144/61126362fef0ad1b8c9c031e/lesson-header.png?locale=en-us&auto=webp&format=jpeg&width=1800&quality=90&fit=bounds"
+  },
+  {
+    "redir": "https://education.lego.com/en-us/lessons/prime-invention-squad/design-for-you/",
+    "catTitle": "Invention Squad (Lesson 6)",
+    "title": "Design for You",
+    "subtitle": "BricQ Motion Prime",
+    "description": "Exercise creativity, explore the design engineering process, and invent a desktop helper.",
+    "categories": "STEAM, Engineering",
+    "duration": "45 min",
+    "level": "Beginner",
+    "grade": "Grades 6-8",
+    "urlImg": "https://assets.education.lego.com/v3/assets/blt293eea581807678a/blt6bb46796acc0726d/6230797fddcaa8030b8bb2f1/DesignForYou_LessonThumbnail_FidgetSpinner.png?locale=en-us&auto=webp&format=jpeg&width=1800&quality=90&fit=bounds"
+  },
+  {
+    "redir": "https://education.lego.com/en-us/lessons/bricq-motion-winning-with-science/weightlifter/",
+    "catTitle": "Winning with Science (Lesson 5)",
+    "title": "Weightlifter",
+    "subtitle": "BricQ Motion Essential",
+    "description": "Explore the motion of a weightlifter as they train at the gym. How can mechanical advantage help them to lift more weight?",
+    "categories": "Science, STEAM",
+    "duration": "30-45 min.",
+    "level": "Advanced",
+    "grade": "Grades 3-5",
+    "urlImg": "https://assets.education.lego.com/v3/assets/blt293eea581807678a/bltd73b1d6b36df86ea/5fd228d3a84f233eaf610678/U2L5_-_doodleThumbnail.png?locale=en-us&auto=webp&format=jpeg&width=1800&quality=90&fit=bounds"
+  },
+  {
+    "redir": "https://education.lego.com/en-us/lessons/prime-extra-resources/going-the-distance/",
+    "catTitle": "Supplementary Lessons (Lesson 4)",
+    "title": "Going the Distance",
+    "subtitle": "SPIKE™ Prime Set",
+    "description": "Program a Rhino to start and stop before it hits something.",
+    "categories": "STEAM, Engineering, Computer Science",
+    "duration": "30-45 min.",
+    "level": "Beginner",
+    "grade": "Grades 6-8",
+    "urlImg": "https://assets.education.lego.com/v3/assets/blt293eea581807678a/blt12265e8fb4cc612b/611269ae7b2aa336d6ba3ef0/lesson-header.png?locale=en-us&auto=webp&format=jpeg&width=1800&quality=90&fit=bounds"
+  },
+  {
+    "redir": "https://education.lego.com/en-us/lessons/prime-extra-resources/ideas-the-lego-way/",
+    "catTitle": "Supplementary Lessons (Lesson 2)",
+    "title": "Ideas, the LEGO way!",
+    "subtitle": "SPIKE™ Prime Set",
+    "description": "Use LEGO bricks as a unique way to generate creative ideas.",
+    "categories": "STEAM, Engineering, Computer Science",
+    "duration": "30-45 min.",
+    "level": "Beginner",
+    "grade": "Grades 6-8",
+    "urlImg": "https://assets.education.lego.com/v3/assets/blt293eea581807678a/blt910d0f5f002fc0c8/61127e44fef0ad1b8c9c0382/lesson-header.png?locale=en-us&auto=webp&format=jpeg&width=1800&quality=90&fit=bounds"
+  },
+  {
+    "redir": "https://education.lego.com/en-us/lessons/prime-extra-resources/what-is-this/",
+    "catTitle": "Supplementary Lessons (Lesson 3)",
+    "title": "What is this?",
+    "subtitle": "SPIKE™ Prime Set",
+    "description": "Define, customize, and communicate the use of a new “thing.”",
+    "categories": "STEAM, Engineering, Computer Science",
+    "duration": "30-45 min.",
+    "level": "Beginner",
+    "grade": "Grades 6-8",
+    "urlImg": "https://assets.education.lego.com/v3/assets/blt293eea581807678a/bltcc58397a860206c5/611381704a72ef3a8c6ef93e/lesson-header.png?locale=en-us&auto=webp&format=jpeg&width=1800&quality=90&fit=bounds"
+  },
+  {
+    "redir": "https://education.lego.com/en-us/lessons/prime-extra-resources/pass-the-brick/",
+    "catTitle": "Supplementary Lessons (Lesson 1)",
+    "title": "Pass the Brick",
+    "subtitle": "SPIKE™ Prime Set",
+    "description": "Practice teamwork techniques by working through four engaging challenges.",
+    "categories": "STEAM, Engineering, Computer Science",
+    "duration": "30-45 min.",
+    "level": "Beginner",
+    "grade": "Grades 6-8",
+    "urlImg": "https://assets.education.lego.com/v3/assets/blt293eea581807678a/blt3be596c4aeb81fea/6112853e365a7d358c6c0521/lesson-header.png?locale=en-us&auto=webp&format=jpeg&width=1800&quality=90&fit=bounds"
+  },
+  {
+    "redir": "https://education.lego.com/en-us/lessons/prime-competition-ready/my-code-our-program/",
+    "catTitle": "Competition Ready (Lesson 6)",
+    "title": "My Code, Our Program",
+    "subtitle": "SPIKE™ Prime Set",
+    "description": "Use My Blocks to write organized programs that'll help the Advanced Driving Base perform quickly and reliably.",
+    "categories": "STEAM, Engineering, Computer Science",
+    "duration": "90-120 min.",
+    "level": "Advanced",
+    "grade": "Grades 6-8",
+    "urlImg": "https://assets.education.lego.com/v3/assets/blt293eea581807678a/bltd850b2b35b2839e7/61121f623ea66f3ecbdbf7cd/lesson-header.png?locale=en-us&auto=webp&format=jpeg&width=1800&quality=90&fit=bounds"
   }
 ]

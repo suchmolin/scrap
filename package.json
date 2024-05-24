@@ -11,6 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@google-cloud/translate": "^8.3.0",
+    "@vitalets/google-translate-api": "^9.2.0",
+    "google-translate-api": "^2.3.0",
     "puppeteer": "^22.9.0",
     "puppeteer-google-translate": "^1.0.6"
   },
