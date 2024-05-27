@@ -13,9 +13,11 @@
   "dependencies": {
     "@google-cloud/translate": "^8.3.0",
     "@vitalets/google-translate-api": "^9.2.0",
+    "axios": "^1.7.2",
     "google-translate-api": "^2.3.0",
     "puppeteer": "^22.9.0",
-    "puppeteer-google-translate": "^1.0.6"
+    "puppeteer-google-translate": "^1.0.6",
+    "request": "^2.88.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.3.0",
