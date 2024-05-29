@@ -2,6 +2,8 @@
 import puppeteer from "puppeteer";
 import fs from "fs/promises";
 
+const archivoFinal = "lessons" + ".json";
+
 async function handleDynamicWebPage() {
   const browser = await puppeteer.launch({
     headless: false,
@@ -10,7 +12,7 @@ async function handleDynamicWebPage() {
   const page = await browser.newPage();
   const opt = { from: "en", to: "es", timeout: 1000, headless: true };
   await page.goto(
-    "https://education.lego.com/en-us/lessons/?grades=Grades+6-8&products=SPIKE%E2%84%A2+Prime+with+Python,BricQ+Motion+Prime,MINDSTORMS%C2%AE+EV3+Core+Set,Renewable+Energy+Add-on+Set,Pneumatics+Add-on+Set"
+    "https://education.lego.com/es-mx/lessons/?products=WeDo+2.0+Core+Set"
   );
 
   const cokiesButon = await page.waitForSelector(".sc-m0v8m0-9"); // Asegúrate de reemplazar esto con el selector de CSS correcto.
@@ -18,18 +20,18 @@ async function handleDynamicWebPage() {
   await page.waitForSelector(".sc-1k8yoot-1"); // Asegúrate de reemplazar esto con el selector de CSS correcto.
   await page.waitForSelector('button[data-testid="load-more-button"]'); // Asegúrate de reemplazar esto con el selector de CSS correcto.
 
-  for (let i = 0; i <= 10; i++) {
+  for (let i = 0; i <= 2; i++) {
     //37 = 467 -> 12 = 163 -> 3 = 49 -> 3 = 52 -> 4 = 65 -> 10 = 141
     const res = await page.$$('button[data-testid="load-more-button"]');
-    if (res[1]) {
-      await res[1].click();
+    if (res[0]) {
+      await res[0].click();
       await new Promise((resolve) => setTimeout(resolve, 400));
     }
   }
 
   await autoScroll(page);
 
-  //  await new Promise((resolve) => setTimeout(resolve, 100000));
+  // await new Promise((resolve) => setTimeout(resolve, 100000));
 
   const data = await page.evaluate(() => {
     const quotes = document.querySelectorAll(".sc-1k8yoot-1");
@@ -71,7 +73,7 @@ async function handleDynamicWebPage() {
   });
 
   console.log("***** exported " + data.length + " lesson's info ******");
-  fs.writeFile("primariaAlta.json", JSON.stringify(data, null, 2));
+  fs.writeFile(archivoFinal, JSON.stringify(data, null, 2));
 
   await browser.close();
 }

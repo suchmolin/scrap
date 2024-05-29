@@ -17,7 +17,8 @@
     "google-translate-api": "^2.3.0",
     "puppeteer": "^22.9.0",
     "puppeteer-google-translate": "^1.0.6",
-    "request": "^2.88.2"
+    "request": "^2.88.2",
+    "uuid": "^9.0.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.3.0",

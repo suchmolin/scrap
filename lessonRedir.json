@@ -1,9 +1,9 @@
 [
   {
-    "redir": "https://education.lego.com/es-mx/lessons/wedo-2-science/robust-structures/",
+    "redir": "/TeacherResources/ExploreLessons/ebbb16b7-ff2a-4780-830e-28a74859139d",
     "catTitle": "Science (Sesión 7)",
     "title": "Estructuras robustas",
-    "subtitle": "WeDo 2.0 Core Set",
+    "subtitle": "Conjunto básico WeDo 2.0",
     "description": "Investiga qué características de un edificio ayudarían a hacerlo resistente a un terremoto; usa un simulador de terremotos construido con los ladrillos de LEGO.",
     "categories": "Ingeniería, STEAM, Programación, Saberes y pensamiento científico",
     "duration": "Más de 120 minutos",
@@ -13,10 +13,10 @@
     "id": "ebbb16b7-ff2a-4780-830e-28a74859139d"
   },
   {
-    "redir": "https://education.lego.com/es-mx/lessons/wedo-2-science/plants-and-pollinators/",
+    "redir": "/TeacherResources/ExploreLessons/6d2b4c2c-8a28-4976-a95a-5032396dfa49",
     "catTitle": "Science (Sesión 9)",
     "title": "Plantas y polinizadores",
-    "subtitle": "WeDo 2.0 Core Set",
+    "subtitle": "Conjunto básico WeDo 2.0",
     "description": "Trabaja en el modelo de la relación entre un polinizador y una flor durante la fase de reproducción utilizando una representación de LEGO.",
     "categories": "Ingeniería, STEAM, Programación, Saberes y pensamiento científico",
     "duration": "Más de 120 minutos",
@@ -26,10 +26,10 @@
     "id": "6d2b4c2c-8a28-4976-a95a-5032396dfa49"
   },
   {
-    "redir": "https://education.lego.com/es-mx/lessons/wedo-2-mini-lessons/cooling-fan/",
+    "redir": "/TeacherResources/ExploreLessons/6b391786-cfdf-4c32-a3a6-fce8e05adfda",
     "catTitle": "Mini Lessons (Sesión 2)",
     "title": "Ventilador",
-    "subtitle": "WeDo 2.0 Core Set",
+    "subtitle": "Conjunto básico WeDo 2.0",
     "description": "Presenta la construcción y la codificación utilizando el bloque de potencia del motor para hacer que el motor gire a diferentes velocidades.",
     "categories": "Ingeniería, STEAM, Programación",
     "duration": "0-30 min",
@@ -39,10 +39,10 @@
     "id": "6b391786-cfdf-4c32-a3a6-fce8e05adfda"
   },
   {
-    "redir": "https://education.lego.com/es-mx/lessons/wedo-2-science/predator-and-prey/",
+    "redir": "/TeacherResources/ExploreLessons/4a490f5f-d13f-4e78-a230-b4a1e2e358b8",
     "catTitle": "Science (Sesión 13)",
     "title": "Predator and Prey",
-    "subtitle": "WeDo 2.0 Core Set",
+    "subtitle": "Conjunto básico WeDo 2.0",
     "description": "Model the behavior of predators and their prey.",
     "categories": "Ingeniería, STEAM, Programación, Saberes y pensamiento científico",
     "duration": "Más de 120 minutos",
@@ -52,10 +52,10 @@
     "id": "4a490f5f-d13f-4e78-a230-b4a1e2e358b8"
   },
   {
-    "redir": "https://education.lego.com/es-mx/lessons/wedo-2-science/frogs-metamorphosis/",
+    "redir": "/TeacherResources/ExploreLessons/0fc175f2-b568-450e-9a2b-01f40964c0d0",
     "catTitle": "Science (Sesión 8)",
     "title": "Frog’s Metamorphosis",
-    "subtitle": "WeDo 2.0 Core Set",
+    "subtitle": "Conjunto básico WeDo 2.0",
     "description": "Model a frog’s metamorphosis using a LEGO representation and identify the characteristics of the organism at each stage.",
     "categories": "Ingeniería, STEAM, Programación, Saberes y pensamiento científico",
     "duration": "Más de 120 minutos",
@@ -65,10 +65,10 @@
     "id": "0fc175f2-b568-450e-9a2b-01f40964c0d0"
   },
   {
-    "redir": "https://education.lego.com/es-mx/lessons/wedo-2-mini-lessons/spy-robot/",
+    "redir": "/TeacherResources/ExploreLessons/7f2971c4-a04a-4814-a774-29461827ca3d",
     "catTitle": "Mini Lessons (Sesión 4)",
     "title": "Robot espía",
-    "subtitle": "WeDo 2.0 Core Set",
+    "subtitle": "Conjunto básico WeDo 2.0",
     "description": "Presenta la construcción y la codificación utilizando el Sensor de movimiento.",
     "categories": "Ingeniería, STEAM, Programación",
     "duration": "0-30 min",
@@ -78,10 +78,10 @@
     "id": "7f2971c4-a04a-4814-a774-29461827ca3d"
   },
   {
-    "redir": "https://education.lego.com/es-mx/lessons/wedo-2-computational-thinking/moonbase/",
+    "redir": "/TeacherResources/ExploreLessons/10c8c42f-ab35-4d55-b45e-aa852540c39f",
     "catTitle": "Computational Thinking (Sesión 1)",
     "title": "Base Lunar",
-    "subtitle": "WeDo 2.0 Core Set",
+    "subtitle": "Conjunto básico WeDo 2.0",
     "description": "Diseñar una solución para que un robot pueda montar una base en la Luna.",
     "categories": "Programación, STEAM, Saberes y pensamiento científico, Ingeniería",
     "duration": "Más de 120 minutos",
@@ -91,10 +91,10 @@
     "id": "10c8c42f-ab35-4d55-b45e-aa852540c39f"
   },
   {
-    "redir": "https://education.lego.com/es-mx/lessons/wedo-2-mini-lessons/glowing-snail/",
+    "redir": "/TeacherResources/ExploreLessons/c189f283-6145-4603-b715-8696f88b08cc",
     "catTitle": "Mini Lessons (Sesión 1)",
     "title": "Caracol Brillante",
-    "subtitle": "WeDo 2.0 Core Set",
+    "subtitle": "Conjunto básico WeDo 2.0",
     "description": "Presenta la construcción y codificación mediante el bloque de luz.",
     "categories": "Ingeniería, STEAM, Programación",
     "duration": "0-30 min",
@@ -104,10 +104,10 @@
     "id": "c189f283-6145-4603-b715-8696f88b08cc"
   },
   {
-    "redir": "https://education.lego.com/es-mx/lessons/wedo-2-mini-lessons/moving-satellite/",
+    "redir": "/TeacherResources/ExploreLessons/e5096d81-11c7-4765-9ca7-53f3077fd4e8",
     "catTitle": "Mini Lessons (Sesión 3)",
     "title": "Satélite móvil",
-    "subtitle": "WeDo 2.0 Core Set",
+    "subtitle": "Conjunto básico WeDo 2.0",
     "description": "Introduce la construcción y la codificación utilizando el motor aún más, haciendo que gire durante un tiempo establecido y luego que cambie de dirección.",
     "categories": "Ingeniería, STEAM, Programación",
     "duration": "0-30 min",
@@ -117,10 +117,10 @@
     "id": "e5096d81-11c7-4765-9ca7-53f3077fd4e8"
   },
   {
-    "redir": "https://education.lego.com/es-mx/lessons/wedo-2-science/moving-materials/",
+    "redir": "/TeacherResources/ExploreLessons/4e6f47f1-f2ec-45c6-bdf4-29f97abb48dd",
     "catTitle": "Science (Sesión 20)",
     "title": "Moving Materials",
-    "subtitle": "WeDo 2.0 Core Set",
+    "subtitle": "Conjunto básico WeDo 2.0",
     "description": "Design a LEGO prototype of a device that can move certain objects around in a very safe and efficient way.",
     "categories": "Ingeniería, STEAM, Programación, Saberes y pensamiento científico",
     "duration": "Más de 120 minutos",
@@ -130,10 +130,10 @@
     "id": "4e6f47f1-f2ec-45c6-bdf4-29f97abb48dd"
   },
   {
-    "redir": "https://education.lego.com/es-mx/lessons/wedo-2-science/wildlife-crossing/",
+    "redir": "/TeacherResources/ExploreLessons/841b3310-f480-4a8b-a6db-d6fff94b6187",
     "catTitle": "Science (Sesión 19)",
     "title": "Wildlife Crossing",
-    "subtitle": "WeDo 2.0 Core Set",
+    "subtitle": "Conjunto básico WeDo 2.0",
     "description": "Design a LEGO prototype to allow an endangered animal species to safely cross a road or other hazardous area.",
     "categories": "Ingeniería, STEAM, Programación, Saberes y pensamiento científico",
     "duration": "Más de 120 minutos",
@@ -143,10 +143,10 @@
     "id": "841b3310-f480-4a8b-a6db-d6fff94b6187"
   },
   {
-    "redir": "https://education.lego.com/es-mx/lessons/wedo-2-science/space-exploration/",
+    "redir": "/TeacherResources/ExploreLessons/7e669cc3-680f-4261-a8ae-f047858497da",
     "catTitle": "Science (Sesión 16)",
     "title": "Space Exploration",
-    "subtitle": "WeDo 2.0 Core Set",
+    "subtitle": "Conjunto básico WeDo 2.0",
     "description": "Design a LEGO prototype of a rover that would be ideal for exploring distant planets.",
     "categories": "Ingeniería, STEAM, Programación, Saberes y pensamiento científico",
     "duration": "Más de 120 minutos",
@@ -156,10 +156,10 @@
     "id": "7e669cc3-680f-4261-a8ae-f047858497da"
   },
   {
-    "redir": "https://education.lego.com/es-mx/lessons/wedo-2-science/drop-and-rescue/",
+    "redir": "/TeacherResources/ExploreLessons/076434e8-de21-43e1-aa59-b06fefdf5d11",
     "catTitle": "Science (Sesión 11)",
     "title": "Dejar y rescatar",
-    "subtitle": "WeDo 2.0 Core Set",
+    "subtitle": "Conjunto básico WeDo 2.0",
     "description": "Diseña un dispositivo para reducir el impacto en los seres humanos, los animales y el medio ambiente después de que un área haya sido dañada por un peligro relacionado con el clima.",
     "categories": "Ingeniería, STEAM, Programación, Saberes y pensamiento científico",
     "duration": "Más de 120 minutos",
@@ -169,10 +169,10 @@
     "id": "076434e8-de21-43e1-aa59-b06fefdf5d11"
   },
   {
-    "redir": "https://education.lego.com/es-mx/lessons/wedo-2-science/speed/",
+    "redir": "/TeacherResources/ExploreLessons/3793896f-7e33-4d25-a6e5-8ba67de23576",
     "catTitle": "Science (Sesión 6)",
     "title": "Velocidad",
-    "subtitle": "WeDo 2.0 Core Set",
+    "subtitle": "Conjunto básico WeDo 2.0",
     "description": "Investiga qué factores pueden hacer que un automóvil vaya más rápido para ayudar a predecir el movimiento futuro.",
     "categories": "Ingeniería, STEAM, Programación, Saberes y pensamiento científico",
     "duration": "Más de 120 minutos",
@@ -182,10 +182,10 @@
     "id": "3793896f-7e33-4d25-a6e5-8ba67de23576"
   },
   {
-    "redir": "https://education.lego.com/es-mx/lessons/wedo-2-science/prevent-flooding/",
+    "redir": "/TeacherResources/ExploreLessons/2e691f32-fc0f-487b-b3d8-3c75411f0e4f",
     "catTitle": "Science (Sesión 10)",
     "title": "Evita inundaciones",
-    "subtitle": "WeDo 2.0 Core Set",
+    "subtitle": "Conjunto básico WeDo 2.0",
     "description": "Diseña una compuerta automática de LEGO para controlar el agua según diversos patrones de precipitación.",
     "categories": "Ingeniería, STEAM, Programación, Saberes y pensamiento científico",
     "duration": "Más de 120 minutos",
@@ -195,10 +195,10 @@
     "id": "2e691f32-fc0f-487b-b3d8-3c75411f0e4f"
   },
   {
-    "redir": "https://education.lego.com/es-mx/lessons/wedo-2-science/pulling/",
+    "redir": "/TeacherResources/ExploreLessons/7c1a5276-6767-4bd1-b5c4-0f3e97c18988",
     "catTitle": "Science (Sesión 5)",
     "title": "Tracción",
-    "subtitle": "WeDo 2.0 Core Set",
+    "subtitle": "Conjunto básico WeDo 2.0",
     "description": "Investiga los efectos de las fuerzas equilibradas y desequilibradas en el movimiento de un objeto.",
     "categories": "Ingeniería, STEAM, Programación, Saberes y pensamiento científico",
     "duration": "Más de 120 minutos",
@@ -208,10 +208,10 @@
     "id": "7c1a5276-6767-4bd1-b5c4-0f3e97c18988"
   },
   {
-    "redir": "https://education.lego.com/es-mx/lessons/wedo-2-science/animal-expression/",
+    "redir": "/TeacherResources/ExploreLessons/128a39dc-4472-495a-84aa-60a47071cff5",
     "catTitle": "Science (Sesión 14)",
     "title": "Animal Expression",
-    "subtitle": "WeDo 2.0 Core Set",
+    "subtitle": "Conjunto básico WeDo 2.0",
     "description": "Model the various methods of communication used in the animal kingdom.",
     "categories": "Ingeniería, STEAM, Programación, Saberes y pensamiento científico",
     "duration": "Más de 120 minutos",
@@ -221,10 +221,10 @@
     "id": "128a39dc-4472-495a-84aa-60a47071cff5"
   },
   {
-    "redir": "https://education.lego.com/es-mx/lessons/wedo-2-science/hazard-alarm/",
+    "redir": "/TeacherResources/ExploreLessons/c4e2af20-f5a4-4ac5-b2f7-1215ee260bb1",
     "catTitle": "Science (Sesión 17)",
     "title": "Hazard Alarm",
-    "subtitle": "WeDo 2.0 Core Set",
+    "subtitle": "Conjunto básico WeDo 2.0",
     "description": "Design a LEGO prototype of a weather alarm device to alert people and reduce the impact of strong storms.",
     "categories": "Ingeniería, STEAM, Programación, Saberes y pensamiento científico",
     "duration": "Más de 120 minutos",
@@ -234,10 +234,10 @@
     "id": "c4e2af20-f5a4-4ac5-b2f7-1215ee260bb1"
   },
   {
-    "redir": "https://education.lego.com/es-mx/lessons/wedo-2-science/cleaning-the-ocean/",
+    "redir": "/TeacherResources/ExploreLessons/091a1072-16fc-4fa6-96f1-d9f4a6d0b8a7",
     "catTitle": "Science (Sesión 18)",
     "title": "Cleaning the Ocean",
-    "subtitle": "WeDo 2.0 Core Set",
+    "subtitle": "Conjunto básico WeDo 2.0",
     "description": "Design a LEGO prototype of a device that could help remove plastic waste from the ocean.",
     "categories": "Ingeniería, STEAM, Programación, Saberes y pensamiento científico",
     "duration": "Más de 120 minutos",
@@ -247,10 +247,10 @@
     "id": "091a1072-16fc-4fa6-96f1-d9f4a6d0b8a7"
   },
   {
-    "redir": "https://education.lego.com/es-mx/lessons/wedo-2-science/extreme-habitats/",
+    "redir": "/TeacherResources/ExploreLessons/dc004a51-40d8-4f0a-9926-913e4afd10f2",
     "catTitle": "Science (Sesión 15)",
     "title": "Extreme Habitats",
-    "subtitle": "WeDo 2.0 Core Set",
+    "subtitle": "Conjunto básico WeDo 2.0",
     "description": "Model the influence of a habitat on the survival of an animal specials.",
     "categories": "Ingeniería, STEAM, Programación, Saberes y pensamiento científico",
     "duration": "Más de 120 minutos",
@@ -260,10 +260,10 @@
     "id": "dc004a51-40d8-4f0a-9926-913e4afd10f2"
   },
   {
-    "redir": "https://education.lego.com/es-mx/lessons/wedo-2-science/getting-started-project-a/",
+    "redir": "/TeacherResources/ExploreLessons/667b2b0e-1f07-47d0-be2c-29b7a4243c51",
     "catTitle": "Science (Sesión 1)",
     "title": "Proyecto Para empezar, parte A: Milo, el róver científico",
-    "subtitle": "WeDo 2.0 Core Set",
+    "subtitle": "Conjunto básico WeDo 2.0",
     "description": "Descubre formas en que los científicos e ingenieros pueden usar róvers para explorar lugares donde los humanos no pueden llegar.",
     "categories": "Ingeniería, STEAM, Programación, Saberes y pensamiento científico",
     "duration": "30-45 min",
@@ -273,10 +273,10 @@
     "id": "667b2b0e-1f07-47d0-be2c-29b7a4243c51"
   },
   {
-    "redir": "https://education.lego.com/es-mx/lessons/wedo-2-science/getting-started-project-b/",
+    "redir": "/TeacherResources/ExploreLessons/5a9a6759-3b29-4240-bded-a0f470f2c4d4",
     "catTitle": "Science (Sesión 2)",
     "title": "Proyecto Para empezar, parte B: Sensor de movimiento de Milo",
-    "subtitle": "WeDo 2.0 Core Set",
+    "subtitle": "Conjunto básico WeDo 2.0",
     "description": "Descubre cómo usar el Sensor de movimiento para detectar la presencia de un espécimen especial de una planta.",
     "categories": "Ingeniería, STEAM, Programación, Saberes y pensamiento científico",
     "duration": "0-30 min",
@@ -286,10 +286,10 @@
     "id": "5a9a6759-3b29-4240-bded-a0f470f2c4d4"
   },
   {
-    "redir": "https://education.lego.com/es-mx/lessons/wedo-2-science/getting-started-project-d/",
+    "redir": "/TeacherResources/ExploreLessons/54758da4-3289-4c30-a216-df2d60f6d078",
     "catTitle": "Science (Sesión 4)",
     "title": "Proyecto Para empezar, parte D: Colaborando",
-    "subtitle": "WeDo 2.0 Core Set",
+    "subtitle": "Conjunto básico WeDo 2.0",
     "description": "Explora la importancia de colaborar durante los proyectos.",
     "categories": "Ingeniería, STEAM, Programación, Saberes y pensamiento científico",
     "duration": "0-30 min",
@@ -299,10 +299,10 @@
     "id": "54758da4-3289-4c30-a216-df2d60f6d078"
   },
   {
-    "redir": "https://education.lego.com/es-mx/lessons/wedo-2-science/sort-to-recycle/",
+    "redir": "/TeacherResources/ExploreLessons/4a268c8c-688f-4e39-8681-77484af3f5a0",
     "catTitle": "Science (Sesión 12)",
     "title": "Clasificar para reciclar",
-    "subtitle": "WeDo 2.0 Core Set",
+    "subtitle": "Conjunto básico WeDo 2.0",
     "description": "Diseña un dispositivo que clasifique objetos de acuerdo con sus propiedades físicas, incluidas la forma y el tamaño.",
     "categories": "Ingeniería, STEAM, Programación, Saberes y pensamiento científico",
     "duration": "Más de 120 minutos",
@@ -312,10 +312,10 @@
     "id": "4a268c8c-688f-4e39-8681-77484af3f5a0"
   },
   {
-    "redir": "https://education.lego.com/es-mx/lessons/wedo-2-science/getting-started-project-c/",
+    "redir": "/TeacherResources/ExploreLessons/498a00f8-e046-4631-affe-c7ee50c04916",
     "catTitle": "Science (Sesión 3)",
     "title": "Proyecto Para empezar, parte C: Sensor de inclinación de Milo",
-    "subtitle": "WeDo 2.0 Core Set",
+    "subtitle": "Conjunto básico WeDo 2.0",
     "description": "Descubre cómo usar el Sensor de inclinación para ayudar a Milo a enviar un mensaje a la base.",
     "categories": "Ingeniería, STEAM, Programación, Saberes y pensamiento científico",
     "duration": "0-30 min",

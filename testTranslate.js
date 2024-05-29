@@ -1,4 +1,4 @@
-import { translating } from "./translate.js";
+import translateText from "./traducir.js";
 import fs from "fs";
 
 import { fileURLToPath } from "url";
@@ -6,15 +6,22 @@ import { dirname } from "path";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
+const archivoInicio = "/parte2.json";
+const archivoFinal = "parte2Translated.json";
 
-const data = JSON.parse(fs.readFileSync(__dirname + "/lessons.json", "utf8"));
+const data = JSON.parse(fs.readFileSync(__dirname + archivoInicio, "utf8"));
 
 async function traducirData(data) {
   for (let i = 0; i < data.length; i++) {
-    console.log("Translating lesson", i + 1, data[i].title);
+    console.log("Translating lesson", i + 1, "/" + data.length, data[i].title);
     for (let key in data[i]) {
-      if (key !== "redir" && key !== "urlImg") {
-        data[i][key] = await translating(data[i][key]);
+      if (
+        key !== "redir" &&
+        key !== "urlImg" &&
+        key !== "duration" &&
+        key !== "grade"
+      ) {
+        data[i][key] = await translateText(data[i][key]);
       }
     }
   }
@@ -32,6 +39,7 @@ async function traducirData(data) {
   );
   return resp;*/
 }
+
 function writeFileAsync(path, data) {
   return new Promise((resolve, reject) => {
     fs.writeFile(path, data, (err) => {
@@ -47,7 +55,7 @@ function writeFileAsync(path, data) {
 // Uso:
 try {
   await writeFileAsync(
-    "lessonsTranslated.json",
+    archivoFinal,
     JSON.stringify(await traducirData(data), null, 2)
   );
 } catch (err) {

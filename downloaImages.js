@@ -5,10 +5,12 @@ import fs from "fs";
 import { fileURLToPath } from "url";
 import { dirname } from "path";
 
+const archivoInicial = "/lessons.json";
+
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-const data = JSON.parse(fs.readFileSync(__dirname + "/lessons.json", "utf8"));
+const data = JSON.parse(fs.readFileSync(__dirname + archivoInicial, "utf8"));
 
 // Función para agregar un tiempo de espera
 function sleep(ms) {
