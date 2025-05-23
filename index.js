@@ -6,7 +6,7 @@ const archivoFinal = "lessons" + ".json";
 
 async function handleDynamicWebPage() {
   const browser = await puppeteer.launch({
-    headless: false,
+    headless: true,
     slowMo: 100,
   });
   const page = await browser.newPage();
